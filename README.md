@@ -28,6 +28,13 @@ student_mgmt.exe # For Windows
 -Select options 1-6 to perform operations.
 -Student records are written/read in binary format from students.dat.
 
+# Sample Output 
+<img width="554" height="321" alt="image" src="https://github.com/user-attachments/assets/184b0c3f-934e-42f4-ba83-b9762b83064f" />
+
+
+
+
+
 # 🚫 Limitations
 -No input validation (e.g., invalid percentage or roll number).
 -Not portable across systems unless compiled accordingly.
